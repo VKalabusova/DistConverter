@@ -1,0 +1,12 @@
+Package: DistConverter
+Type: Package
+Title: Distance Conversion Package for Demonstration
+Version: 0.1.0
+Author: Veronika Kalabusova <kalave02@upol.cz>
+Maintainer: Veronika Kalabusova <kalave02@upol.cz>
+Description: This package allows to convert the Distance in kilometres to Miles
+    and the Distance in Miles to Kilometres
+License: free
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
